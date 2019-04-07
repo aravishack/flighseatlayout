@@ -1,0 +1,20 @@
+.seatlayout,
+.seatlayout-content {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.header-title {
+  text-align: center;
+  margin: 1rem 0;
+}
+
+section.seatlayout {
+  max-width: 90%;
+  margin: 5rem auto;
+  overflow: auto;
+}
+header.header {
+  text-align: center;
+}
